@@ -3,7 +3,7 @@
 **Twitter Client Swift** uses a Twitter Helper Class and simple TableViewCells to pull recent hastag tweets for **iOS**.
 
 ## Preview
-![screencast](https://imgflip.com/gif/xzoce)
+![screencast](http://g.recordit.co/DlJAchUKLF.gif)
 
 ## Features
 
